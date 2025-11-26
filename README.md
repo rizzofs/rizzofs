@@ -47,10 +47,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="rizzofs's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1" alt="rizzofs's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
-
 ---
 
 ### 📬 Connect with me

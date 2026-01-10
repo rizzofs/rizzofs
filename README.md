@@ -1,60 +1,11 @@
-# Hello! I'm Federico | Student Leader & Dev 🚀
-
-### President of the **CODES++** Student Center (Information Systems @ UNLu).
-### Passionate about writing code and inventing new solutions.
-
----
-
-### 👨‍💻 About Me
-
-* 🔭 I’m currently leading the **CODES++ Summit** (Hackathon) and running my web agency, **Reinventa F5**.
-* 🌱 I’m currently exploring **AI-driven education tools**, designing a Discord Assistant to personalize learning for university students.
-* 👯 I’m looking to collaborate on **Open Source Student Governance** tools, starting with an Electronic Voting System.
-* ⚡ **Fun fact:** I promote E-sports tournaments to bring the student community together (even though I'm not a gamer myself!).
-
----
-
-### 🛠️ Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1" alt="rizzofs's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
----
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33F7FF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Federico+Rizzo+%F0%9F%91%8B;President+of+CODES%2B%2B+Student+Center;Full+Stack+Developer+%F0%9F%9A%80;Building+Community+%40+UNLu" alt="Typing SVG" />
 
-### 📬 Connect with me
+  <h3 align="center">Passionate about writing code, leading teams, and inventing solutions.</h3>
+  
+  <br/>
 
-<div align="left">
   <a href="https://www.linkedin.com/in/federico-s-rizzo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -67,4 +18,42 @@
   <a href="mailto:rizzofs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+
+</div>
+
+<hr/>
+
+### 👨‍💻 About Me
+
+* 🔭 **Leadership:** Currently leading the **CODES++ Summit** (Hackathon) and serving as President of the Student Center at UNLu.
+* 💼 **Entrepreneurship:** Running my own web development agency, **Reinventa F5**.
+* 🌱 **Innovation:** Exploring **AI-driven education tools** to design a Discord Assistant for personalized learning.
+* 👯 **Community:** Collaborating on Open Source tools for student governance, like the **Electronic Voting System**.
+* ⚡ **Fun fact:** I organize E-sports tournaments to unite the student community (connecting gamers with devs!).
+
+<br/>
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,nodejs,express,tailwind,postgres,mysql,docker,figma,git,github,vscode" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+</div>
+
+<div align="center">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github.com/rizzofs/rizzofs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>

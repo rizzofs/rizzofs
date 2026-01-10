@@ -18,7 +18,7 @@ jobs:
           # Configuración Visual (Dark Mode estilo Tokyo Night)
           user: rizzofs
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           config_twemoji: yes
           plugin_languages: yes

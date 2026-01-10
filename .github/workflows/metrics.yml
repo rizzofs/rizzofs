@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Se actualiza cada hora
+  schedule: [{cron: "0 * * * *"}]
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Configuración Visual (Dark Mode estilo Tokyo Night)
+          user: rizzofs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Argentina/Buenos_Aires
+          config_twemoji: yes
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_lines: yes

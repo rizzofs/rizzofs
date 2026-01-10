@@ -44,13 +44,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_buster=2026)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_buster=2026)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117&cache_buster=2026)
-
+  <img src="https://github.com/rizzofs/rizzofs/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <div align="center">

@@ -44,15 +44,14 @@
 
 <div align="center">
 
-![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_buster=2026)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_buster=2026)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117&cache_buster=2026)
 
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rizzofs/rizzofs/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-

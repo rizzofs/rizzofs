@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/rizzofs/rizzofs/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/rizzofs/rizzofs/blob/main/github-metrics.svg" alt="Metrics" width="75%">
 </div>
 
 <div align="center">

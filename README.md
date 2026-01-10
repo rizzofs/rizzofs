@@ -40,20 +40,19 @@
 </div>
 
 <br/>
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+
+![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizzofs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzofs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 <div align="center">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzofs&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://raw.githubusercontent.com/rizzofs/rizzofs/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://github.com/rizzofs/rizzofs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
